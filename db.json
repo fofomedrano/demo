@@ -3,6 +3,5 @@
     { "username": "fofomedrano", "registered": "2012/01/01", "role": "member", "status": "active" },
     { "username": "Juan", "registered": "2012/01/01", "role": "member", "status": "active" },
     { "username": "Maria", "registered": "2012/01/01", "role": "member", "status": "active" }
-  ],
-  "pages": 5
+  ]
 }
