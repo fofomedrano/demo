@@ -80,6 +80,7 @@
          "role":"Member",
          "status":"Active"
       }
-   ],[
-   "somethng": "what up"]
+   ],[{
+   "somethng": "what up"}
+   ]
 }
